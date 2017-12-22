@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.22" tests="2" failures="0">
+  <testsuite name="Root Suite" timestamp="2017-11-14T05:15:48" tests="0" failures="0" time="0">
+  </testsuite>
+  <testsuite name="Validate Article" timestamp="2017-11-14T05:15:48" tests="2" file="E:\rice\2017 Fall\531\assignments\6\back\testings\profile.spec.js" failures="0" time="0.22">
+    <testcase name="Validate Article should update the headline" time="0.087" classname="should update the headline">
+    </testcase>
+    <testcase name="Validate Article should post a new article" time="0.133" classname="should post a new article">
+    </testcase>
+  </testsuite>
+</testsuites>
